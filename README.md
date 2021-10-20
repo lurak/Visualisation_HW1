@@ -1,5 +1,5 @@
 # Visualisation_HW1
 
 
-#Result Picture
+# Result Picture
 ![Result](./result.png)
